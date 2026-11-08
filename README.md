@@ -13,7 +13,7 @@
   Browse: <a href="https://github.com/maks-sredniawa?tab=repositories&amp;q=topic%3Agoogle-play-app">📱 Android apps</a> · <a href="https://github.com/maks-sredniawa?tab=repositories&amp;q=topic%3Achrome-extension">🧩 Chrome extensions</a> · <a href="https://github.com/maks-sredniawa?tab=repositories&amp;q=topic%3Aworld-of-tanks-mod">🎮 World of Tanks mods</a> · <a href="https://github.com/maks-sredniawa?tab=repositories&amp;q=topic%3Atemplate">🧰 Templates</a> · <a href="https://github.com/maks-sredniawa?tab=repositories&amp;q=topic%3Atool">⚙️ Tools</a> · <a href="https://github.com/maks-sredniawa?tab=repositories&amp;q=topic%3Amaksforge-website">🌐 Website</a>
 </p>
 
-### 🟢 Live on Google Play, the Chrome Web Store and GitHub
+### 🟢 Live on Google Play, the Chrome Web Store, GitHub and the web
 
 #### 📱 Android apps
 
@@ -21,6 +21,12 @@
 |---|---|---|
 | <a href="https://play.google.com/store/apps/details?id=binky.bunny.and.rabbit.tracker"><img src="https://maksforge.com/assets/icons/binky.webp" width="48" alt="Binky icon"></a> | **[Binky](https://play.google.com/store/apps/details?id=binky.bunny.and.rabbit.tracker)** | Track your rabbit's weight, health and care. · [website](https://maksforge.com/binky-app/) · [code](https://github.com/maks-sredniawa/binky-app) |
 | <a href="https://play.google.com/store/apps/details?id=io.github.srednimax.gloam"><img src="https://maksforge.com/assets/icons/gloam.webp" width="48" alt="Gloam icon"></a> | **[Gloam](https://play.google.com/store/apps/details?id=io.github.srednimax.gloam)** | Dim the screen below Android's lowest brightness. · [website](https://maksforge.com/gloam/) · [code](https://github.com/maks-sredniawa/gloam) |
+
+#### 🌐 Web apps
+
+| | | |
+|---|---|---|
+| <a href="https://maksforge.com/bevel/"><img src="https://maksforge.com/assets/icons/bevel.webp" width="48" alt="Bevel icon"></a> | **[Bevel](https://maksforge.com/bevel/)** | A free music player in your browser, in the style of the early 2000s. · [code](https://github.com/maks-sredniawa/bevel) |
 
 #### 🧩 Chrome extensions
 
