@@ -48,6 +48,7 @@
 | <a href="https://maksforge.com/urgent/"><img src="https://maksforge.com/assets/icons/urgent.webp" width="48" alt="Urgent call icon"></a> | **[Urgent call](https://maksforge.com/urgent/)** | Rings when the same number calls twice within a few minutes, even on silent. · [code](https://github.com/maks-sredniawa/urgent) |
 | <a href="https://maksforge.com/kozica/"><img src="https://maksforge.com/assets/icons/kozica.webp" width="48" alt="Kozica icon"></a> | **[Kozica](https://maksforge.com/kozica/)** | Offline trail map of the Polish mountains. · [code](https://github.com/maks-sredniawa/kozica) |
 | <a href="https://maksforge.com/darek/"><img src="https://maksforge.com/assets/icons/darek.webp" width="48" alt="Darek icon"></a> | **[Darek](https://maksforge.com/darek/)** | Polish voice assistant that opens your gate with a phone call, offline. · [code](https://github.com/maks-sredniawa/darek) |
+| <a href="https://github.com/maks-sredniawa/wot-garage-filter-extras"><img src="https://maksforge.com/assets/icons/wot-garage-filter-extras.webp" width="48" alt="Garage Filter Extras icon"></a> | **[Garage Filter Extras](https://github.com/maks-sredniawa/wot-garage-filter-extras)** | World of Tanks mod that hides rented tanks from the garage and can show only tanks that are not premium. · [code](https://github.com/maks-sredniawa/wot-garage-filter-extras) |
 
 ### 🧰 Open source tools
 
