@@ -52,6 +52,7 @@
 | <a href="https://maksforge.com/take-your-meds/"><img src="https://maksforge.com/assets/icons/take-your-meds.webp" width="48" alt="Take your meds icon"></a> | **[Take your meds](https://maksforge.com/take-your-meds/)** | Medication reminder that records each dose you take, with nothing leaving your phone. · [code](https://github.com/maks-sredniawa/take-your-meds) |
 | <a href="https://maksforge.com/woodworking-planner/"><img src="https://maksforge.com/assets/icons/woodworking-planner.webp" width="48" alt="Woodworking planner icon"></a> | **[Woodworking planner](https://maksforge.com/woodworking-planner/)** | Web app to plan a woodworking project in 3D and catch mistakes before you cut the first board, with nothing leaving your computer. · [code](https://github.com/maks-sredniawa/woodworking-planner) |
 | <a href="https://maksforge.com/darts-scorer/"><img src="https://maksforge.com/assets/icons/darts-scorer.webp" width="48" alt="Darts Scorer icon"></a> | **[Darts Scorer](https://maksforge.com/darts-scorer/)** | Adds up your darts from a photo or two of the board, offline. · [code](https://github.com/maks-sredniawa/darts-scorer) |
+| <a href="https://maksforge.com/gmail-dark-mode/"><img src="https://maksforge.com/assets/icons/gmail-dark-mode.webp" width="48" alt="Dark Mode for Gmail icon"></a> | **[Dark Mode for Gmail](https://maksforge.com/gmail-dark-mode/)** | Makes the whole of Gmail dark, message bodies included. Unofficial, not affiliated with Google. · [code](https://github.com/maks-sredniawa/gmail-dark-mode) |
 
 ### 🧰 Open source tools
 
