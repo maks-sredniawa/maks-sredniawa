@@ -21,6 +21,7 @@
 |---|---|---|
 | <a href="https://play.google.com/store/apps/details?id=binky.bunny.and.rabbit.tracker"><img src="https://maksforge.com/assets/icons/binky.webp" width="48" alt="Binky icon"></a> | **[Binky](https://play.google.com/store/apps/details?id=binky.bunny.and.rabbit.tracker)** | Track your rabbit's weight, health and care. · [website](https://maksforge.com/binky-app/) · [code](https://github.com/maks-sredniawa/binky-app) |
 | <a href="https://play.google.com/store/apps/details?id=io.github.srednimax.gloam"><img src="https://maksforge.com/assets/icons/gloam.webp" width="48" alt="Gloam icon"></a> | **[Gloam](https://play.google.com/store/apps/details?id=io.github.srednimax.gloam)** | Dim the screen below Android's lowest brightness. · [website](https://maksforge.com/gloam/) · [code](https://github.com/maks-sredniawa/gloam) |
+| <a href="https://play.google.com/store/apps/details?id=io.github.srednimax.urgent"><img src="https://maksforge.com/assets/icons/urgent.webp" width="48" alt="Urgent call icon"></a> | **[Urgent call](https://play.google.com/store/apps/details?id=io.github.srednimax.urgent)** | Rings when the same number calls twice within a few minutes, even on silent. · [website](https://maksforge.com/urgent/) · [code](https://github.com/maks-sredniawa/urgent) |
 
 #### 🌐 Web apps
 
@@ -46,7 +47,6 @@
 
 | | | |
 |---|---|---|
-| <a href="https://maksforge.com/urgent/"><img src="https://maksforge.com/assets/icons/urgent.webp" width="48" alt="Urgent call icon"></a> | **[Urgent call](https://maksforge.com/urgent/)** | Rings when the same number calls twice within a few minutes, even on silent. · [code](https://github.com/maks-sredniawa/urgent) |
 | <a href="https://maksforge.com/kozica/"><img src="https://maksforge.com/assets/icons/kozica.webp" width="48" alt="Kozica icon"></a> | **[Kozica](https://maksforge.com/kozica/)** | Offline trail map of the Polish mountains. · [code](https://github.com/maks-sredniawa/kozica) |
 | <a href="https://maksforge.com/darek/"><img src="https://maksforge.com/assets/icons/darek.webp" width="48" alt="Darek icon"></a> | **[Darek](https://maksforge.com/darek/)** | Polish voice assistant that opens your gate with a phone call, offline. · [code](https://github.com/maks-sredniawa/darek) |
 | <a href="https://maksforge.com/take-your-meds/"><img src="https://maksforge.com/assets/icons/take-your-meds.webp" width="48" alt="Take your meds icon"></a> | **[Take your meds](https://maksforge.com/take-your-meds/)** | Medication reminder that records each dose you take, with nothing leaving your phone. · [code](https://github.com/maks-sredniawa/take-your-meds) |
